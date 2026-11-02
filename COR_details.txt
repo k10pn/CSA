@@ -1,0 +1,12 @@
+STUDENT INFORMATION
+Student # : 202510974
+Name : Kirsten Chloe P. Nueva
+Phone : 09291000652
+Zip Code : 1643
+Year Level : 2
+College : COMPUTER STUDIES
+Program : BSCSSE
+Address : 171-0 22nd. Ave. Mapayapa St. Zone 4 East Rembo Taguig City
+Total units: 21
+Number of lab courses: 4
+TOTAL TUITION FEE : 23400 PHP
