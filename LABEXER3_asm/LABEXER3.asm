@@ -1,6 +1,6 @@
 ; nasm -f elf32 LABEXER3.asm -o LABEXER3.o
 ; ld -m elf_i386 LABEXER3.o -o LABEXER3
-; ./LABEXER3
+; ./LABEXER3 .
 
 %macro PRINT 1
     mov esi, %1
